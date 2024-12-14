@@ -108,7 +108,7 @@
         </audio>
     </div>
     <h3>Understanding Plagiarism</h3>
-    <img src="your-image.jpg" alt="Plagiarism" style="width:100%; height:auto;">
+    <img src="Messenger_creation_36ED78B5-DE24-4E79-A65E-6B44640767AC.jpeg" alt="Plagiarism" style="width:100%; height:auto;">
     <p><strong>Plagiarism</strong> is the act of presenting someone else's work or ideas as your own, without giving proper credit. It's a serious offense, with consequences ranging from academic penalties to legal repercussions and lasting damage to reputation.</p>
     <table>
         <tr>
